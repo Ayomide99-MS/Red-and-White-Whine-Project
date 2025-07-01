@@ -2,13 +2,13 @@
 
 ![Wine Quality Dashboard](Annotation%202025-03-22%20005218.png)
 
-## 📊 Project Overview
+##  Project Overview
 
 This project explores the chemical characteristics influencing wine quality using a dataset of **Red and White wines**. The main objective is to uncover the relationship between various wine features and quality scores through data analysis and visualization.
 
 ---
 
-## 📁 Dataset Information
+##  Dataset Information
 
 - **Filename:** `Red and White Wine Dataset working on.xlsx`
 - **Total Wine Records Analyzed:** 5,320
@@ -31,7 +31,7 @@ This project explores the chemical characteristics influencing wine quality usin
 
 ---
 
-## 📌 Dashboard Highlights
+## Dashboard Highlights
 
 1. **Wine Type Distribution**  
    - Majority of the wines are **White Wine**.
@@ -54,7 +54,7 @@ This project explores the chemical characteristics influencing wine quality usin
 
 ---
 
-## 📈 Recommendations
+##  Recommendations
 
 - Improve or maintain **alcohol level**, **sulphates**, and **volatile acidity** for better wine quality.
 - Keep **pH levels** in the ideal range (3.0 – 3.4).
@@ -62,7 +62,7 @@ This project explores the chemical characteristics influencing wine quality usin
 
 ---
 
-## ⚙️ Data Processing Steps
+## Data Processing Steps
 
 1. **Data Cleaning** – Removed nulls, duplicates, and outliers.
 2. **Pivot Table Analysis** – Used for aggregating key comparisons across quality ratings.
@@ -70,20 +70,20 @@ This project explores the chemical characteristics influencing wine quality usin
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project gives a clear picture of how certain chemical properties affect wine quality. Alcohol and acidity management are key to producing high-rated wines. The dashboard serves as a decision-support tool for winemakers and data analysts in the food and beverage industry.
 
 ---
 
-## 🧠 Contributors
+##  Contributors
 
 - **Ayomide Adebusuyi** – Data Analyst & Dashboard Developer  
 - **Project Team Members** – [Olamide Abigail Olagunju and Sodipe Oluwatonilola grace]
 
 ---
 
-## 📂 Resources
+##  Resources
 
 - Dataset: Included in repo (`Red and White Wine Dataset working on.xlsx`)
 - Dashboard Image: `Annotation 2025-03-22 005218.png`
